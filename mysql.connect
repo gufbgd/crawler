@@ -1,0 +1,14 @@
+url::jdbc:mysql://localhost:3306/ownpage
+utilisateur::root
+MotDePasse::
+Table::articles2
+ChampUrl::link
+ChampContenu::contenu
+ChampTitre::name
+ChampSummary::description
+ChampPublished::datePost
+ChampRefIDXML::xmlid
+TableXML::lstxml
+ChampXMLID::idxml
+ChampXMLURL::xml
+ChampImg::picture
